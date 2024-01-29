@@ -13,6 +13,11 @@
     display: flex;
     justify-content: space-between;
     padding-top: 45px;
+    height: 25vh;
+}
+.header img{
+    width: 124px;
+    height: 22.604px;
 }
 .header h3{
     color: #282828;
@@ -23,11 +28,12 @@
 }
 .contant{
     width: 90%;
-    margin: 50.5px auto 50px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 50vh;
+    padding-bottom: 63px;
 }
 .contant iframe{
     width:620px;
@@ -72,7 +78,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;
-    height: 182px;
+    height: 25vh;
     display: flex;
     justify-content: space-between;
     padding: 83px 65px 0;
