@@ -51,6 +51,9 @@
     font-weight: 500;
     line-height: 25.327px;
 }
+.contant .text .mobile{
+    display: none;
+}
 .contant .text p span{
     color: #282828;
     font-family: Tajawal;
