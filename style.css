@@ -137,11 +137,13 @@
 }
 @media (max-width:500px){
     .header{
-        margin-top: 75px;
+        margin-top: 25px;
+        height: 15vh;
     }
     .contant{
-        margin-bottom: 100px;
-        margin-top: 100px;
+        height: 60vh;
+        justify-content: space-between;
+        align-items: center;
     }
     .contant .text{
         width: 94%;
@@ -166,9 +168,10 @@
     } 
     .footer{
         flex-direction: column;
-        /* height: 220px; */
+        height: 182px;
         padding-left:25px ;
         padding-right: 25px;
+        margin-top: 23px;
     }
     .footer .logo{
         display: flex;
